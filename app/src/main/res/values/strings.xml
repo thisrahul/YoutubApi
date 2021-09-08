@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XcelacadsTask</string>
+    <string name="search_youtube">Search Youtube</string>
+    <string name="search_result_appears_here">Search result appears here</string>
+    <string name="prev"><![CDATA[<<Prev]]></string>
+    <string name="next"><![CDATA[Next>>]]></string>
+    <string name="share">Share</string>
+</resources>
